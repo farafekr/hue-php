@@ -9,7 +9,7 @@ Hue is a Web interface for analyzing data with Apache Hadoop.
 We have connected Hue and PHP to do an example as our use case. Our use case is to create a user in Hue in our PHP code. If you want to automatically create a user in Hue in PHP, this is ready to use!
 
 ## Some Tips before testing
-* You can find the new user's information in do.py file.
+* You can find the new user's information in doit.py file.
 * Web server user permission and the user that runs Hue Server must be the same.
 
 ## Run it!
